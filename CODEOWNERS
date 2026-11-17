@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @galatisp
+/src/backend/database.py      @galatisp
+/src/backend/routers/auth.py  @galatisp
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @galatisp
